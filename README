@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2811
+
+Syntax highlight file for hlasm or asm370. You can freely add any missing keyword in "syn keyword xInstruction", "syn keyword xDirective", "syn keyword xMacro",  "syn keyword xParameter" "syn keyword xRegister' etc.
